@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "8c33c1d1a4686279",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f298d144a8292f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c50fea27ceb97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5161ee9d98f4a54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "183a048593e2e290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c66561009a5d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "044fa417add81634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1c7db622d948b08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "add3adb08f23b005",
+    "type": "split",
+    "children": [
+      {
+        "id": "917ae501ce6d3823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5302e47590e84b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64e61e04628b225c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f548208866eec073",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f9dd391af5a4b18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "3ee083f738cb1659",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "latex-ocr:LatexOCR": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "45c50fea27ceb97d",
+  "lastOpenFiles": [
+    "Haskell.md",
+    "README.md",
+    "Hilbert Spaces.md",
+    "Home.md",
+    "obidianrepo/README.md",
+    "obidianrepo",
+    "obrepo",
+    "Uni Current Semester.md",
+    "Alimiyah.md",
+    "repo",
+    "RepoForObs",
+    "RepoForObsidian/Untitled.md",
+    "RepoForObsidian",
+    "Untitled Kanban 3.md",
+    "Untitled Kanban 5.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 4.md",
+    "Untitled Kanban 2.md",
+    "Topology.md",
+    "Prolog.md",
+    "Discrete Mathematics.md",
+    "Geometry.md",
+    "Declarative Programming.md",
+    "Metric and Hilbert Spaces.md",
+    "Untitled.md",
+    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled 7",
+    "Untitled 6",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3"
+  ]
+}
