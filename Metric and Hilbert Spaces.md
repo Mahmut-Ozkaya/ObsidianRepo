@@ -1,2 +1,0 @@
-[[Topology]]
-[[Hilbert Spaces]]

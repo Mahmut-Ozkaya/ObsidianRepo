@@ -8,14 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45c50fea27ceb97d",
+            "id": "e590afa8e64e6adc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +128,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.canvas"
               }
-            }
-          },
-          {
-            "id": "3ee083f738cb1659",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -158,40 +153,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45c50fea27ceb97d",
+  "active": "e590afa8e64e6adc",
   "lastOpenFiles": [
-    "Haskell.md",
+    "2024-10-07.md",
+    "Untitled.canvas",
+    "Studies/Current Studies/Declarative Programming/Declarative Programming.md",
+    "Studies/Current Studies/Declarative Programming/Metric and Hilbert Spaces Main Page.md",
+    "Studies/Current Studies/Geometry/Geometry.md",
+    "Studies/Current Studies/Declarative Programming/Hilbert Spaces.md",
+    "Studies/Current Studies/Declarative Programming/Topology.md",
+    "Studies/Current Studies/Discrete Maths",
+    "Studies/Current Studies/Geometry",
+    "Studies/Current Studies/Declarative Programming",
+    "Studies/Current Studies/Metric and Hilbert Spaces",
+    "Studies/Alimiyyah/Philosophy/Main.md",
+    "Studies/Alimiyyah/Philosophy/Week1.md",
+    "Studies/Alimiyyah/Philosophy",
+    "Studies/Alimiyyah/Philosophy.md",
     "README.md",
-    "Hilbert Spaces.md",
-    "Home.md",
+    "Studies/Weird Stuff.md",
+    "Studies/Alimiyyah",
+    "Studies/Current Studies/Declarative Programming/Prolog.md",
+    "Studies/Current Studies",
+    "Studies/Home.md",
+    "Studies/Alimiyah.md",
+    "Studies/Uni Current Semester.md",
+    "Studies",
+    "Templates/time.md",
+    "Main Note.md",
+    "Studies/Current Studies/Declarative Programming/Haskell.md",
+    "Templates",
+    "Templates.md",
     "obidianrepo/README.md",
     "obidianrepo",
-    "obrepo",
-    "Uni Current Semester.md",
-    "Alimiyah.md",
-    "repo",
-    "RepoForObs",
     "RepoForObsidian/Untitled.md",
-    "RepoForObsidian",
     "Untitled Kanban 3.md",
     "Untitled Kanban 5.md",
     "Untitled Kanban 1.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 4.md",
-    "Untitled Kanban 2.md",
-    "Topology.md",
-    "Prolog.md",
-    "Discrete Mathematics.md",
-    "Geometry.md",
-    "Declarative Programming.md",
-    "Metric and Hilbert Spaces.md",
-    "Untitled.md",
-    "Untitled/Untitled.md",
-    "Untitled/Untitled 1.md",
-    "Untitled 7",
-    "Untitled 6",
-    "Untitled 5",
-    "Untitled 4",
-    "Untitled 3"
+    "Untitled Kanban.md"
   ]
 }
