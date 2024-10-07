@@ -11,14 +11,11 @@
             "id": "e590afa8e64e6adc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Studies/Current Studies/Declarative Programming/Haskell.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Studies/Current Studies/Declarative Programming/Haskell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Studies/Current Studies/Declarative Programming/Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,23 +125,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Studies/Current Studies/Declarative Programming/Haskell.md"
               }
             }
+          },
+          {
+            "id": "f210571a52dfd523",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "latex-ocr:LatexOCR": false,
@@ -155,41 +158,44 @@
   },
   "active": "e590afa8e64e6adc",
   "lastOpenFiles": [
-    "2024-10-07.md",
-    "Untitled.canvas",
-    "Studies/Current Studies/Declarative Programming/Declarative Programming.md",
-    "Studies/Current Studies/Declarative Programming/Metric and Hilbert Spaces Main Page.md",
+    "Studies/Current Studies/Metric and Hilbert Spaces/Normed and Hilbert Spaces.md",
+    "Studies/Current Studies/Metric and Hilbert Spaces/Topology.md",
+    "Templates/time.md",
+    "README.md",
+    "Studies/Alimiyyah/Philosophy/Main.md",
+    "Studies/Alimiyyah/Philosophy/Week1.md",
+    "Studies/Current Studies/Metric and Hilbert Spaces/Metric and Hilbert Spaces Main Page.md",
     "Studies/Current Studies/Geometry/Geometry.md",
-    "Studies/Current Studies/Declarative Programming/Hilbert Spaces.md",
-    "Studies/Current Studies/Declarative Programming/Topology.md",
+    "Studies/Current Studies/Discrete Maths/Discrete Mathematics.md",
+    "Pasted image 20241007011204.png",
+    "Studies/Current Studies/Declarative Programming/Declarative Programming.md",
+    "Studies/Current Studies/Declarative Programming/Prolog.md",
+    "Studies/Current Studies/Declarative Programming/Haskell.md",
+    "Snippets.css.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-10-07.md",
     "Studies/Current Studies/Discrete Maths",
     "Studies/Current Studies/Geometry",
     "Studies/Current Studies/Declarative Programming",
     "Studies/Current Studies/Metric and Hilbert Spaces",
-    "Studies/Alimiyyah/Philosophy/Main.md",
-    "Studies/Alimiyyah/Philosophy/Week1.md",
     "Studies/Alimiyyah/Philosophy",
     "Studies/Alimiyyah/Philosophy.md",
-    "README.md",
     "Studies/Weird Stuff.md",
     "Studies/Alimiyyah",
-    "Studies/Current Studies/Declarative Programming/Prolog.md",
     "Studies/Current Studies",
     "Studies/Home.md",
     "Studies/Alimiyah.md",
     "Studies/Uni Current Semester.md",
     "Studies",
-    "Templates/time.md",
     "Main Note.md",
-    "Studies/Current Studies/Declarative Programming/Haskell.md",
     "Templates",
     "Templates.md",
     "obidianrepo/README.md",
     "obidianrepo",
     "RepoForObsidian/Untitled.md",
     "Untitled Kanban 3.md",
-    "Untitled Kanban 5.md",
-    "Untitled Kanban 1.md",
-    "Untitled Kanban.md"
+    "Untitled Kanban 5.md"
   ]
 }

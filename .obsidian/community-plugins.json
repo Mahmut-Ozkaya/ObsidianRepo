@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "obsidian-linter",
+  "obsidian-latex-suite",
+  "latex-ocr",
+  "obsidian-kanban",
+  "obsidian-completr"
 ]
